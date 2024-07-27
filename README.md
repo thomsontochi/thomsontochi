@@ -23,13 +23,13 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developia/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/SirAlexthomson)
+[![Threads](https://img.shields.io/badge/Threads-%231DA1F2.svg?logo=Threads&logoColor=white)](https://www.threads.net/@austinopia)
+
 
 
 
 📫 **Get in Touch:**
 - **Email:** opiaaustin@gmail.com
-- **LinkedIn:** [linkedin.com/in/developia](https://www.linkedin.com/in/developia)
-- **GitHub:** [github.com/thomsontochi](https://github.com/thomsontochi)
 
 Thanks for visiting my profile! 🚀
 
