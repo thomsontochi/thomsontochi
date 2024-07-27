@@ -17,7 +17,7 @@
 - **DevOps:** Docker, Kubernetes, CI/CD systems
 - **Other Tools:** Git, Jira, PHPStorm, New Relic, Cloud Watch, SumoLogic, Pager Duty
 
-# 💻 Tech Stack:
+
 
 # 💻 Tech Stack:
 
@@ -32,6 +32,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
@@ -51,6 +52,13 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D8.svg?style=flat&logo=alpinejs&logoColor=white) 
 ![Livewire](https://img.shields.io/badge/Livewire-4B5563.svg?style=flat&logo=laravel&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) 
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
 
 # 📊 GitHub Stats:
 
