@@ -63,9 +63,12 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=thomsontochi&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thomsontochi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomsontochi&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=thomsontochi&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
 🌟 **What Drives Me:** I'm driven by a passion for continuous learning and innovation. I love tackling complex problems and finding creative solutions that make a real impact.
 
