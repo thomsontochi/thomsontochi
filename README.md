@@ -78,10 +78,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developia/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/SirAlexthomson)
 [![Threads](https://img.shields.io/badge/Threads-%231DA1F2.svg?logo=Threads&logoColor=white)](https://www.threads.net/@austinopia)
 
-## 🐦 Latest Tweet
-
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/MartinsOlumide8)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?text=Talk%20is%20cheap.%20Show%20me%20the%20code&theme=tokyonight)
