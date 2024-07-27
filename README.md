@@ -60,7 +60,12 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
 
+
 # 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=thomsontochi&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thomsontochi&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomsontochi&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 🌟 **What Drives Me:** I'm driven by a passion for continuous learning and innovation. I love tackling complex problems and finding creative solutions that make a real impact.
 
