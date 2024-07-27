@@ -22,6 +22,8 @@
 🌍 **Open to Opportunities:** I'm always looking for exciting opportunities to work with innovative teams. If you have a project or role that could benefit from my expertise, feel free to reach out!
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developia/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/SirAlexthomson)
+
 
 
 📫 **Get in Touch:**
