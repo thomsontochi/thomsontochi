@@ -18,6 +18,7 @@
 - **Other Tools:** Git, Jira, PHPStorm, New Relic, Cloud Watch, SumoLogic, Pager Duty
 
 # 💻 Tech Stack:
+
 # 💻 Tech Stack:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white) 
@@ -43,6 +44,13 @@
 ![Cloud Watch](https://img.shields.io/badge/AWS%20Cloud%20Watch-FF9900.svg?style=flat&logo=amazonaws&logoColor=white) 
 ![SumoLogic](https://img.shields.io/badge/SumoLogic-00A3E0.svg?style=flat&logo=sumologic&logoColor=white) 
 ![Pager Duty](https://img.shields.io/badge/PagerDuty-5A67F2.svg?style=flat&logo=pagerduty&logoColor=white) 
+![SaaS](https://img.shields.io/badge/SaaS-00BFFF.svg?style=flat&logo=cloud&logoColor=white) 
+![API](https://img.shields.io/badge/API-FF5733.svg?style=flat&logo=api&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black) 
+![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=flat&logo=apache&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D8.svg?style=flat&logo=alpinejs&logoColor=white) 
+![Livewire](https://img.shields.io/badge/Livewire-4B5563.svg?style=flat&logo=laravel&logoColor=white) 
 
 # 📊 GitHub Stats:
 
