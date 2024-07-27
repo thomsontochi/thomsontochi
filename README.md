@@ -21,6 +21,9 @@
 
 🌍 **Open to Opportunities:** I'm always looking for exciting opportunities to work with innovative teams. If you have a project or role that could benefit from my expertise, feel free to reach out!
 
+## 🌐 Socials:
+
+
 📫 **Get in Touch:**
 - **Email:** opiaaustin@gmail.com
 - **LinkedIn:** [linkedin.com/in/developia](https://www.linkedin.com/in/developia)
