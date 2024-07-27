@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Hi there 👋
 
 ### Hi there, I'm Austin Opia 👋
 
@@ -9,17 +8,7 @@
 
 💼 Throughout my career, I've had the privilege of working with diverse clients across the globe, including corporate, charity, and public sector organizations. I've led cross-functional teams, managed end-to-end project lifecycles, and consistently delivered high-quality, scalable solutions.
 
-🔧 **Technical Skills:**
-- **Backend:** PHP, Laravel, Symfony, Yii
-- **Frontend:** HTML5, CSS3, JavaScript, Vue.js, React.js
-- **Databases:** MySQL, PostgreSQL, MSSQL
-- **Cloud Services:** AWS (EC2, Lambda, S3, RDS, Aurora, Elasticache, Redis, Redshift)
-- **DevOps:** Docker, Kubernetes, CI/CD systems
-- **Other Tools:** Git, Jira, PHPStorm, New Relic, Cloud Watch, SumoLogic, Pager Duty
-
-
-
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-FCC624?style=flat&logo=laravel&logoColor=black) 
@@ -60,23 +49,15 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
 
+## 📊 GitHub Stats:
 
-# 📊 GitHub Stats:
-
+![](https://github-readme-stats.vercel.app/api?username=thomsontochi&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thomsontochi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomsontochi&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=thomsontochi&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
-
-🌟 **What Drives Me:** I'm driven by a passion for continuous learning and innovation. I love tackling complex problems and finding creative solutions that make a real impact.
-
-🌍 **Open to Opportunities:** I'm always looking for exciting opportunities to work with innovative teams. If you have a project or role that could benefit from my expertise, feel free to reach out!
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developia/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/SirAlexthomson)
-[![Threads](https://img.shields.io/badge/Threads-%231DA1F2.svg?logo=Threads&logoColor=white)](https://www.threads.net/@austinopia)
 
 ## 🐦 Latest Tweet
 
@@ -90,29 +71,10 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=thomsontochi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🔝 Profile Vist Today
+### 😂 Random Dev Meme
+
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=thomsontochi&icon=0&color=12)](https://visitcount.itsvg.in)
-
-
-
-
-📫 **Get in Touch:**
-- **Email:** opiaaustin@gmail.com
-
-Thanks for visiting my profile! 🚀
-
-
-<!--
-**thomsontochi/thomsontochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
