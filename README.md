@@ -90,12 +90,7 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=thomsontochi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-
+### 🔝 Profile Vist Today
 [![](https://visitcount.itsvg.in/api?id=thomsontochi&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
