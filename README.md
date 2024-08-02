@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋 Welcome to Developia`s Github
 
 
-### Hi there, I'm Austin Opia 👋
+### Hi there, I'm Austin Opia 👋 AKA developia
 
 #### Fullstack Developer | Laravel Expert
 
