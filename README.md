@@ -1,11 +1,16 @@
 ## Hi there 👋 Welcome to Developia`s Github
 
 
-### Hi there, I'm Austin Opia 👋 AKA developia
+### Hi there, I'm Austin Opia 👋 (AKA Developia)
 
-#### Fullstack Developer | Laravel Expert
+#### Fullstack Developer
+| Laravel Expert
+| TALL & LAMP stack
+| Web 3.0 Developer  | 
+🧎🏾 Mr Beautiful Mind 
+| Contact: https://flowcv.me/developia
 
-👋 Hi there! I'm Austin Opia, a passionate Fullstack Developer with over six years of experience in building robust web applications. My expertise lies in PHP, specifically the Laravel framework, and I'm proficient in front-end technologies like HTML, CSS, JavaScript, and Vue.js.
+👋 I'm Austin Opia, a passionate Fullstack Developer with over six years of experience in building robust web applications. My expertise lies in PHP, specifically the Laravel framework, and I'm proficient in front-end technologies like HTML, CSS, JavaScript, and Vue.js.
 
 💼 Throughout my career, I've had the privilege of working with diverse clients across the globe, including corporate, charity, and public sector organizations. I've led cross-functional teams, managed end-to-end project lifecycles, and consistently delivered high-quality, scalable solutions.
 
