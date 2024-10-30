@@ -16,6 +16,7 @@
 - **Cloud Services:** AWS (EC2, Lambda, S3, RDS, Aurora, Elasticache, Redis, Redshift)
 - **DevOps:** Docker, Kubernetes, CI/CD systems
 - **Other Tools:** Git, Jira, PHPStorm, New Relic, Cloud Watch, SumoLogic, Pager Duty
+- **Web 3.0:** 
 
 
 
