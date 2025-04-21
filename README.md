@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Austin Opia 👋 (AKA Developia)
 
-#### Fullstack Developer | Laravel Expert | TALL & LAMP stack | Web 3.0 Developer  | 🧎🏾 Mr Beautiful Mind | Contact: https://flowcv.me/developia
+#### Fullstack Developer | Laravel Expert | TALL & LAMP stack | Web 3.0 Developer  | 🧎🏾 Mr Beautiful Mind | Contact: https://linktr.ee/developia
 
 👋 I'm Austin Opia, a passionate Fullstack Developer with over six years of experience in building robust web applications. My expertise lies in PHP, specifically the Laravel framework, and I'm proficient in front-end technologies like HTML, CSS, JavaScript, and Vue.js.
 
