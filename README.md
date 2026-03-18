@@ -19,7 +19,7 @@
 
 🏗️ Currently leading a **build-in-public movement** via my Discord community: [discord.gg/hckEqxhK3s](https://discord.gg/hckEqxhK3s) — where we code, collaborate, and grow together.
 
-📁 Some projects can't be uploaded as public repos — visit my portfolio 👉 [austinopia.aidevelopia.com](https://austinopia.aidevelopia.com) or reach me via the [contact form](https://austinopia.aidevelopia.com/contacts).
+📁 Some projects can't be uploaded as public repos — visit my portfolio 👉 [austinopia.aidevelopia.com](https://austinopia.aidevelopia.com) or reach me via the [contact form](https://austinopia.aidevelopia.com/contact).
 
 📰 Writing weekly dev takes in my newsletter with **400+ subscribers** (and counting): [developia.substack.com](https://developia.substack.com/)
 
