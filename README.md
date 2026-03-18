@@ -1,12 +1,12 @@
-## Hi there 👋 Welcome to Developia`s Github
+## 👋 Welcome to Developia`s Github
 
 
 ### Hi there, I'm Austin Opia 👋 (AKA Developia)
 
-#### Fullstack Developer | Laravel Expert | TALL & LAMP stack | Web 3.0 Developer  | 🧎🏾 Mr Beautiful Mind | Contact: https://linktr.ee/developia
+#### Fullstack Developer | Laravel Expert | TALL & LAMP stack | Web 3.0 Developer  | 🧎🏾 Mr Beautiful Mind | Contact: https://linktr.ee/developia | portfolio https://austinopia.aidevelopia.com
 
-👋 I'm Austin Opia, a passionate Fullstack Developer with over six years of experience in building robust web applications. My expertise lies in PHP, specifically the Laravel framework, and I'm proficient in front-end technologies like HTML, CSS, JavaScript, and Vue.js.  but lately, I’ve expanded into the worlds of AI, Chatbots, and Web3—because the future doesn’t build itself. 🔥 Currently leading a build-in-public movement via my Discord community : https://discord.gg/hckEqxhK3s, where we code, collaborate, and grow together.
-📰 Also writing weekly dev takes in my newsletter with 200+ subscribers (and counting):  https://developia.substack.com/.
+👋 I'm Austin Opia, a passionate Fullstack Developer with over 8 years of experience in building robust web applications. My expertise lies in PHP, specifically the Laravel framework, and I'm proficient in front-end technologies like HTML, CSS, JavaScript, and Vue.js.  but lately, I’ve expanded into the worlds of AI, Chatbots, and Web3—because the future doesn’t build itself. 🔥 Currently leading a build-in-public movement via my Discord community : https://discord.gg/hckEqxhK3s, where we code, collaborate, and grow together. Some projects cannot be uploaded as public repos , so  you might have to vist my portfolio https://austinopia.aidevelopia.com or use my conntact form to enquire https://austinopia.aidevelopia.com/contacts
+📰 Also writing weekly dev takes in my newsletter with 400+ subscribers (and counting):  https://developia.substack.com/.
 
 💼 Throughout my career, I've had the privilege of working with diverse clients across the globe, including corporate, charity, and public sector organizations. I've led cross-functional teams, managed end-to-end project lifecycles, and consistently delivered high-quality, scalable solutions.
 
