@@ -7,7 +7,7 @@
 **Fullstack Developer | Laravel Expert | TALL & LAMP Stack | AI & LLM Engineer | Web3 Builder | 🧎🏾 Mr Beautiful Mind**
 
 [![Open To Work](https://img.shields.io/badge/✅%20Open%20To%20Work-brightgreen?style=for-the-badge)](https://linktr.ee/developia)
-[![Portfolio](https://img.shields.io/badge/🤖%20AI%20Portfolio-austinopia.aidevelopia.com-blue?style=for-the-badge)](https://austinopia.aidevelopia.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-austinopia.aidevelopia.com-blue?style=for-the-badge)](https://austinopia.aidevelopia.com)
 [![Newsletter](https://img.shields.io/badge/📰%20Newsletter-400%2B%20Subscribers-orange?style=for-the-badge)](https://developia.substack.com/)
 [![Discord](https://img.shields.io/badge/Discord%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hckEqxhK3s)
 
@@ -15,11 +15,11 @@
 
 ---
 
-👋 I'm **Austin Opia**, a passionate Fullstack Developer with **8+ years of experience** building robust, scalable web applications. My core expertise is **PHP / Laravel** and the full **TALL stack** (Tailwind, Alpine.js, Livewire, Laravel), and I've been expanding deep into **AI Engineering, LLM integrations, and Web3** — because the future doesn't build itself. 🔥
-
-🤖 I build AI-powered products — from **RAG pipelines** and **LLM agents** to **Chrome AI extensions** and **event-driven multi-country platforms**. Some projects can't be uploaded as public repos, so visit my AI portfolio 👉 [austinopia.aidevelopia.com](https://austinopia.aidevelopia.com) or reach me via the [contact form](https://austinopia.aidevelopia.com/contacts).
+👋 I'm **Austin Opia**, a passionate Fullstack Developer with **8+ years of experience** building robust, scalable web applications. My expertise lies in **PHP / Laravel** and the full **TALL stack** (Tailwind, Alpine.js, Livewire, Laravel), and I've expanded into **AI Engineering, LLM integrations, and Web3** — because the future doesn't build itself. 🔥
 
 🏗️ Currently leading a **build-in-public movement** via my Discord community: [discord.gg/hckEqxhK3s](https://discord.gg/hckEqxhK3s) — where we code, collaborate, and grow together.
+
+📁 Some projects can't be uploaded as public repos — visit my portfolio 👉 [austinopia.aidevelopia.com](https://austinopia.aidevelopia.com) or reach me via the [contact form](https://austinopia.aidevelopia.com/contacts).
 
 📰 Writing weekly dev takes in my newsletter with **400+ subscribers** (and counting): [developia.substack.com](https://developia.substack.com/)
 
@@ -33,8 +33,10 @@
 |--------|-------------|-------|
 | 🌍 [Hub Platform](https://github.com/thomsontochi/hub-platform) | Event-Driven Multi-Country Platform | Laravel, PHP |
 | 💸 [Payurus Fintech App](https://github.com/thomsontochi/payurus-fintech-app) | Digital wallet / neobank mobile SPA | Vue 3, Vite |
-| 🤖 [DSMA](https://github.com/thomsontochi/DSMA) | Developia Smart Research Assistant — Chrome Built-in AI Challenge Entry | Chrome AI APIs |
-| 🌐 [Build In Public](https://github.com/thomsontochi/BuildInPublic) | Open build-in-public movement for the Developia community | — |
+| 🤖 [DSMA](https://github.com/thomsontochi/DSMA) | Developia Smart Research Assistant — Chrome Built-in AI Challenge | Chrome AI APIs |
+| 🧠 DevelopiaAI *(private)* | AI Engagement Bot | PHP |
+| 🌐 Developia Build In Public *(private)* | Official Developia build-in-public website | TypeScript |
+| 💼 Developia Portfolio *(private)* | My official updated portfolio | TypeScript |
 
 ---
 
@@ -57,12 +59,16 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [Hub Platform](https://github.com/thomsontochi/hub-platform) | Event-Driven Multi-Country Platform | Laravel, PHP |
+| [Payurus Fintech App](https://github.com/thomsontochi/payurus-fintech-app) | Digital wallet / neobank mobile SPA | Vue 3, Vite |
 | [OpiaTranslate](https://github.com/thomsontochi/OpiaTranslate) | Chrome AI Translation Extension | JS, Chrome AI APIs |
 | [DSMA](https://github.com/thomsontochi/DSMA) | Developia Smart Research Assistant | Chrome Built-in AI |
-| [Payurus Fintech App](https://github.com/thomsontochi/payurus-fintech-app) | Digital wallet / neobank mobile SPA | Vue 3, Vite |
-| [Hub Platform](https://github.com/thomsontochi/hub-platform) | Event-Driven Multi-Country Platform | Laravel, PHP |
+| [Developia Discord Backend](https://github.com/thomsontochi/developia-discord-backend) | Official Developia Discord community backend | Laravel, PHP |
+| [Developia Discord Frontend](https://github.com/thomsontochi/Developia_Discord_frontend_repo) | Official Developia Discord community frontend | JavaScript |
 | [GraphQL Wallet](https://github.com/thomsontochi/graphql-wallet) | GraphQL-powered wallet API | PHP, GraphQL |
-| [Developia Backend](https://github.com/thomsontochi/developia-discord-backend) | Official Developia Discord community backend | Laravel |
+| [PWA Mobile UI](https://github.com/thomsontochi/pwa-mobile-ui) | Progressive Web App Mobile UI | JavaScript |
+| [Realtime Chat](https://github.com/thomsontochi/realtime-chat-) | Realtime chat application | PHP |
+| [TokenLaunchPro](https://github.com/thomsontochi/TokenLaunchPro) *(private)* | Developia Web3 Token Launch Platform | Web3, Solidity |
 
 ---
 
@@ -198,7 +204,11 @@
 
 📫 **Get in Touch:**
 - **Email:** [opiaaustin@gmail.com](mailto:opiaaustin@gmail.com)
-- **AI Portfolio:** [austinopia.aidevelopia.com](https://austinopia.aidevelopia.com)
+- **Portfolio:** [austinopia.aidevelopia.com](https://austinopia.aidevelopia.com)
 - **All Links:** [linktr.ee/developia](https://linktr.ee/developia)
 
 Thanks for stopping by — let's build something brilliant 🚀
+
+<!--
+**thomsontochi/thomsontochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
